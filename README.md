@@ -9,6 +9,7 @@
 - Backend- Python 3 , Django 3
 - Database- Sqlite3
 - Frontend- React JS
+- Others- Pillow, Axios
 
 ### To execute:
 
